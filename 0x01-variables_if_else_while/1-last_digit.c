@@ -20,7 +20,7 @@ ld = n % 10;
 printf("Last digit of %d is %d and is ", n, ld);
 if (ld == 0)
 {
-puts("zero");
+puts("0");
 }
 else if (n % 10 > 5)
 {
