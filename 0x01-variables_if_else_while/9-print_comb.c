@@ -1,15 +1,8 @@
 /*
  * File: 8
  * Auth: Moses Benson
- */
+*/
 
-#include <stdio.h>
-
-/**
- * main - Prints all the numbers of base 16 in lowercase.
- *
- * Return: Always 0.
- */
 #include <stdio.h>
 
 /**
