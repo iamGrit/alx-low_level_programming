@@ -24,7 +24,7 @@ puts("zero");
 }
 else if (n % 10 > 5)
 {
-puts("and is greater than 5");
+puts("greater than 5");
 }
 else if (ld < 6)
 {
