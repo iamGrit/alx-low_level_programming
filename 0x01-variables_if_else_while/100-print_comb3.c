@@ -1,16 +1,10 @@
 /*
  * File: 100
  * Auth: Moses Benson
- */
+*/
 
 #include <stdio.h>
 
-/**
- * main - Prints all the numbers of base 16 in lowercase.
- *
- * Return: Always 0.
- */
-#include <stdio.h>
 /**
  * main - Prints all possible combinations of two different digits,
  *        in ascending order, separated by a comma followed by a space.
